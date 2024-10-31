@@ -21,4 +21,4 @@ Ce script Python permet de générer des noms d'utilisateur, des e-mails et des 
 
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/votre-utilisateur/generateur-comptes-tiktok.git
+   git clone https://github.com/Zyllow1/Zyllow-Account-Generator.git
